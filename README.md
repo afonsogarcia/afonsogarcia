@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="left">J. Afonso Garcia</h1>
 
-<!--
-**afonsogarcia/afonsogarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Hi, I’m José Afonso Garcia, but you can call me Afonso. I’m a young aspiring entrepreneur working to bring innovative ideas to life. I’m the co-founder of Allym, a startup focused on changing how payments work in the event industry and improving the overall experience for users.<br><br>I’m currently studying Computer Science and Software Engineering at Instituto Superior Técnico and have gained valuable experience managing large-scale youth organizations, where I developed leadership and organizational skills.<br><br>Let’s connect!</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/joseafonsogarcia/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:afonsogarciaalves@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/j.afonsogarcia/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://x.com/JAfonsoGarcia" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.facebook.com/Joseafonsogarciaalves" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
+  <img height="200" src="https://i.imgflip.com/9bdioy.gif"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/afonsogarcia/afonsogarcia/output/snake.svg" alt="Snake animation" />
+
+###
