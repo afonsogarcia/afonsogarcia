@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I’m José Afonso Garcia, but you can call me Afonso. I’m a young aspiring entrepreneur working to bring innovative ideas to life. I’m the co-founder of Allym, a startup focused on changing how payments work in the event industry and improving the overall experience for users.<br><br>I’m currently studying Computer Science and Software Engineering at Instituto Superior Técnico and have gained valuable experience managing large-scale youth organizations, where I developed leadership and organizational skills.<br><br>Let’s connect!</p>
+<p align="left">Hi, I’m José Afonso Garcia, but you can call me Afonso. I’m a young aspiring entrepreneur working to bring innovative ideas to life. I’m the co-founder of Allym, a startup focused on changing how payments work in the event industry and improving the overall experience.<br><br>I’m currently studying Computer Science and Software Engineering at Instituto Superior Técnico and have gained valuable experience managing large-scale youth organizations, where I developed leadership and organizational skills.<br><br>Let’s connect!</p>
 
 ###
 
