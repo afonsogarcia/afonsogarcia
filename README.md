@@ -1,4 +1,4 @@
-<h1 align="left">J. Afonso Garcia</h1>
+<h2 align="left">J. Afonso Garcia</h2>
 
 ###
 
